@@ -1,6 +1,6 @@
 ## Welcome to Logger-UI project page
 
-![temperature-linechart](https://github.com/JuhaKarhusaari/iotDataLogger-Frontend/blob/master/docs/temperatureLineChart.png)    
+![temperature-linechart](docs/temperatureLineChart.png)    
 - This project is part of a [Full Stack Open 2020 web development project](https://github.com/fullstack-hy2020/misc/blob/master/project.md).
      
 - Project repositories: 
@@ -40,4 +40,4 @@ Database have 4 models & collections:
 
 Relationships between these collections is shown below in database diagram.
 
-<img src="https://github.com/JuhaKarhusaari/iotDataLogger-Backend/blob/master/docs/iotLogger_database.svg" alt="drawing" width="400"/>
+<img src="docs/iotLogger_database.svg" alt="drawing" width="400"/>
