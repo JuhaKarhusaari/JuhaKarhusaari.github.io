@@ -1,6 +1,6 @@
 ## Welcome to Logger-UI project page
 
-![temperature-linechart](docs/temperatureLineChart.png)    
+![temperature-linechart](https://github.com/JuhaKarhusaari/iotDataLogger-Frontend/blob/master/docs/temperatureLineChart.png)    
 - This project is part of a [Full Stack Open 2020 web development project](https://github.com/fullstack-hy2020/misc/blob/master/project.md).
      
 - Project repositories: 
@@ -30,3 +30,14 @@ You can try the app using a visitor account
 There is running [background service](https://github.com/JuhaKarhusaari/logger-ui-modify-db) thats monitors 'visitor'-account state.  
 Every 10 minutes background service generates 'mock data' to the 'visitor'-account sensors.  
 And if user removes all machines and sensors, then background service adds one new machine and sensor to 'visitor'-account.  
+
+## Database diagram
+Database have 4 models & collections:  
+1. Machine
+2. Sensor
+3. Log
+4. User
+
+Relationships between these collections is shown below in database diagram.
+
+<img src="https://github.com/JuhaKarhusaari/iotDataLogger-Backend/blob/master/docs/iotLogger_database.svg" alt="drawing" width="400"/>
