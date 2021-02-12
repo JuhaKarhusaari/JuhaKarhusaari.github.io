@@ -16,7 +16,7 @@
 
 ### Deployed fullstack
 Fullstack (Backend + Frontend) is deployed into Heroku platform   
-https://logger-ui-heroku.herokuapp.com/
+- [Try deployed fullstack](https://logger-ui-heroku.herokuapp.com/)
 - Serverless microservices is running on AWS
   - Login API is connected to Apollo server
   - IoT-devices sends measurement data to Logs API
