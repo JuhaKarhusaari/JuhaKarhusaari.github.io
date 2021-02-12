@@ -11,7 +11,7 @@
   - [E2E Testing environment](https://github.com/JuhaKarhusaari/iotLogger-e2e-tests) (Cypress + docker-compose)
 
 ## Documentation
-- [Käyttöliittymän käyttöohje](docs/loggerUI-käyttöohje-03022021.pdf)
+- [Käyttöliittymän käyttöohje](https://github.com/JuhaKarhusaari/JuhaKarhusaari.github.io/blob/main/docs/loggerUI-k%C3%A4ytt%C3%B6ohje%20-%2003022021.pdf)
 - [Tuntikirjanpito](https://docs.google.com/document/d/1ykJfdX5roPQewNgmIofM_zZMYPyVj3OVROAG91oKDjM/edit?usp=sharing)
 
 ### Deployed fullstack
